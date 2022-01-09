@@ -384,10 +384,14 @@
     },
     "clock": {
       "Package": "clock",
-      "Version": "0.3.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "e2e3e46ab3c217313bc77a9eb364d128"
+      "Version": "0.6.0.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "r-lib",
+      "RemoteRepo": "clock",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "aaf22839280ce9d946e11390dfe9a834b10141a5"
     },
     "codetools": {
       "Package": "codetools",
@@ -412,10 +416,8 @@
     },
     "cpp11": {
       "Package": "cpp11",
-      "Version": "0.2.7",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "730eebcc741a5c36761f7d4d0f5e37b8"
+      "Version": "0.4.2",
+      "Source": "Repository"
     },
     "crayon": {
       "Package": "crayon",
@@ -1196,10 +1198,8 @@
     },
     "tzdb": {
       "Package": "tzdb",
-      "Version": "0.1.1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "d60ee49eac3f3aaead137af987c92ddb"
+      "Version": "0.2.0",
+      "Source": "Repository"
     },
     "urltools": {
       "Package": "urltools",
